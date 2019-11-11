@@ -1,7 +1,9 @@
+[![CircleCI](https://circleci.com/gh/susanwere/react-burger-builder.svg?style=svg)](https://circleci.com/gh/susanwere/react-burger-builder) [![Maintainability](https://api.codeclimate.com/v1/badges/9587b9380974cb8739ca/maintainability)](https://codeclimate.com/github/susanwere/react-burger-builder/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/9587b9380974cb8739ca/test_coverage)](https://codeclimate.com/github/susanwere/react-burger-builder/test_coverage)
+
 # react-burger-builder
 This is a react application used to build burgers 🙂
 
-This projecgit t was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
